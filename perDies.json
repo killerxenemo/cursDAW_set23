@@ -1,0 +1,6 @@
+{"Dilluns":{"1":"HTML","2":"HTML","3":"PROG","4":"PROG","5":"BD","6":"BD"},
+    "Dimarts":{"1":"SIST","2":"SIST","3":"BD","4":"BD","5":"ENT","6":"ENT"},
+    "Dimecres":{"1":"BD","2":"BD","3":"HTML","4":"HTML","5":"PROG","6":"PROG"},
+    "Dijous":{"1":"PROG","2":"PROG","3":"PROG","4":"ENT","5":"FOL","6":"FOL"},
+    "Divendres":{"1":"FOL","2":"BD","3":"BD","4":"SIST","5":"SIST","6":"SIST"}
+}
